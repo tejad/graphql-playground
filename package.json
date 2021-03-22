@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "test1212-graphql-playground",
+  "version": "1.0.0",
   "workspaces": [
     "packages/*"
   ],
